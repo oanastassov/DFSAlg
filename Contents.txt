@@ -1,7 +1,7 @@
 // Author: Olivia Anastassov 
 
 // This folder contains:
-// Depth First Search Algorithm. This was restructured and made to work with Mathematica for extra credit. 
+// Depth First Search Algorithm. 
 // Mathematica visualization provided by Professor Ileana Streinu
 // A data folder containing the input and the output information from this algorithm
 
