@@ -1,0 +1,10 @@
+// Author: Olivia Anastassov 
+// must be in:
+// DepthFirstSearchAlgorithm/Java/UnitTests
+
+// compile all classes
+javac -d ../Classes/ ../*/*.java           
+
+// run Java on txt file, output grf and cmp files for Mathematica viewer
+
+java -cp ../Classes dMainGraph ../../Data/GrfTxt/dgraph02.txt ../../Data/GrfCmp/
